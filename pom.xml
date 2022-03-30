@@ -11,7 +11,7 @@
 		<!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mt</groupId>
-	<artifactId>satyavan</artifactId>
+	<artifactId>satyavanbhise</artifactId>
 	<version>1.0</version>
 	<properties>
 		<java.version>1.8</java.version>
